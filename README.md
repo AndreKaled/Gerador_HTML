@@ -16,6 +16,11 @@ Gerar HTML rapidamente com palavras-chave, exercitando o aprendizado em Gramáti
 
 ```plaintext
 TITULO <titulo_aqui>
+SUBTITULO <subtitulo_aqui>
+TEXTO <texto> <texto> ...
+LISTA <elemento> <elemento> ...
+LISTA_ORD <elemento> <elemento> ...
+
 
 ```
 

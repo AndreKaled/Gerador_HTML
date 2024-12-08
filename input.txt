@@ -1,3 +1,5 @@
-TITULO Andrezin
-TITULO jao
-TITULO overwatch best forever
+TITULO andre
+SUBTITULO andrezinho
+TEXTO eu sou:
+LISTA nerd fofo lindo 
+LISTA_ORD nerd fofo lindo 
