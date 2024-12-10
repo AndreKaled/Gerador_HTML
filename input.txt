@@ -1,5 +1,7 @@
-TITULO andre
-SUBTITULO andrezinho
-TEXTO eu sou:
-LISTA nerd fofo lindo 
-LISTA_ORD nerd fofo lindo 
+TITULO Teste de gerador HTML
+SUBTITULO Este é o teste e exemplo
+TEXTO O autor é:
+LISTA lindo maravilhoso hábil curioso nerdinho estudioso fofo estudioso
+TEXTO e você é?
+LISTA_ORD nerdinho/a fofo/a lindo/a maravilhoso/a curioso/a hábil estudioso/a 
+TEXTO parabéns, vocês são compatíveis e podem ser amiguinhos! ^-^
